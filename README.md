@@ -1,5 +1,5 @@
 ## SSAFY 9기 특화 프로젝트
-# 좋은 냉장고, 신선한 나눔 - 좋냉신나
+# 신선 나눔 냉장고 - 신나냉
 - 냉장고 식자재 관리 및 나눔 서비스 
 - [apk 다운로드](https://1drv.ms/u/s!AkrJpxi-ZmutiPNutUjyN42GvDJ0_A?e=c2RFwU)
 <img src="screenshots/Screenshot_20231006-113354_좋냉신나.png" width="250"/>
